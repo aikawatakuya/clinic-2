@@ -36,8 +36,6 @@
 
 //.p-header
 .p-header {
-  height: 75px;
-
   & .mobile-button {
     top: 30px;
     right: 25px;
@@ -74,7 +72,7 @@
   }
 }
 
-//p-news 
+//p-news
 .p-news {
   padding-top: 8vw;
   margin-bottom: 20%;
@@ -91,7 +89,7 @@
   }
 }
 
-//.p-menu 
+//.p-menu
 .p-menu {
   & .c-container {
     padding: 0;
@@ -137,7 +135,7 @@
   }
 }
 
-//.p-access 
+//.p-access
 .p-access {
   margin-bottom: 15%;
 }
@@ -166,7 +164,7 @@
   }
 }
 
-//.p-footer 
+//.p-footer
 .p-footer {
   &__sec01 {
     & p {
@@ -176,7 +174,7 @@
   }
 }
 
-// * * * * * * * * * about-page * * * * * * 
+// * * * * * * * * * about-page * * * * * *
 .c-about {
   & .director {
     &__img {
@@ -233,9 +231,8 @@
   }
 }
 
-// * * * * * * * * * staff-page * * * * * * 
+// * * * * * * * * * staff-page * * * * * *
 .staff {
-
   & .page-lead-box {
     margin: 0 -7vw;
   }
@@ -272,7 +269,7 @@
   }
 }
 
-// * * * * * * * * * treatment-page * * * * * * 
+// * * * * * * * * * treatment-page * * * * * *
 .treatment-contents {
   .treatment {
     &__list {
@@ -292,21 +289,21 @@
   }
 }
 
-// * * * * * * * * * faq-page * * * * * * 
+// * * * * * * * * * faq-page * * * * * *
 .faq-contents {
   & .c-container {
     padding: 0 7vw;
   }
 
   & .faq {
-    margin: 15vw 0;
+    margin: 5vw 0;
 
     &__title {
       text-align: center;
     }
 
     & .c-txtarea01 {
-      margin-bottom: 15vw;
+      margin-bottom: 10vw;
 
       & .c-txt-sm {
         font-size: 16px;
@@ -345,7 +342,7 @@
   }
 }
 
-// * * * * * * * * * recruit-page * * * * * * 
+// * * * * * * * * * recruit-page * * * * * *
 .contents-recruit {
   .c-table01 {
     & tr {
@@ -361,7 +358,7 @@
   }
 }
 
-// * * * * * * * * * news-page * * * * * * 
+// * * * * * * * * * news-page * * * * * *
 .c-news {
   & .c-container {
     padding: 0 10vw;
@@ -374,7 +371,7 @@
   }
 }
 
-// * * * * * * * * * news-sl-page * * * * * * 
+// * * * * * * * * * news-sl-page * * * * * *
 .c-news-sl {
   padding: 10vw;
 
